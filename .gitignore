@@ -1,0 +1,9 @@
+# never commit your key or logs
+secret.key
+log.txt
+decrypted_log.txt
+server_log.txt
+
+# python cache
+__pycache__/
+*.pyc
